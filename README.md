@@ -15,16 +15,11 @@ A simple and user-friendly web-based EPUB reader application. Read EPUB files di
 - 🌐 **Multi-language Support** - Supports English, Chinese, and Japanese
 - 💾 **Works Locally** - Everything runs in the browser, data saved in localStorage
 
-## Demo
-
-View the live demo on GitHub Pages:
-[https://[your-username].github.io/[repository-name]/epub-viewer.html](https://[your-username].github.io/[repository-name]/epub-viewer.html)
-
 ## Usage
 
 ### Online Usage
 
-1. Visit the [GitHub Pages version](https://[your-username].github.io/[repository-name]/epub-viewer.html)
+1. Visit the [GitHub Pages version](https://ta-plug.github.io/epub_viewer/epub-viewer.html)
 2. Drag and drop an EPUB file, or click the "Open" button to select a file
 3. Enjoy reading!
 
